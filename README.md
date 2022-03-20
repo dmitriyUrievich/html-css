@@ -1,2 +1,3 @@
-# html-css
-cool html&amp;css course from resultShcool
+# Мое зезюме 
+## Результат можете посмотреть тут
+[Моя первая работа](https://dmitriyurievich.github.io/html-css/)
